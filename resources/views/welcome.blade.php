@@ -45,7 +45,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8 text-center">
-                    <h1 class="section-title mb-4">Welcome to Shehim</h1>
+                    <h1 class="section-title mb-4">Welcome </h1>
                     <p class="section-subtitle">A Town of Culture and Heritage</p>
                     <p class="town-description-text">
                         It is the town of culture and educated people, whose percentage exceeds 90%. One of the largest
