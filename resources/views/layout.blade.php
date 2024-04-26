@@ -26,7 +26,7 @@
     <div class="container">
         <div class="row justify-content-between">
             <div class="col d-flex align-items-center">
-                <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">+33 629863684</a> or <span class="mailus">email us:</span> <a href="#">prof.nassib@email.com</a></p>
+                <p class="mb-0 phone"><span class="mailus">Phone no:</span> <a href="#">000000000</a> or <span class="mailus">email us:</span> <a href="#">test@email.com</a></p>
             </div>
             <div class="col d-flex justify-content-end">
                 <div class="social-media">
@@ -174,9 +174,9 @@
                 <div class="col-md-6 col-lg-8">
 
                     <p class="copyright mb-0">
-                        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                      {{--  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         Copyright &copy;<script>document.write(new Date().getFullYear());</script>
-                        All rights reserved
+                        All rights reserved--}}
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </div>
                 <div class="col-md-6 col-lg-4 text-md-right">
@@ -222,3 +222,4 @@
 </body>
 
 </html>
+
